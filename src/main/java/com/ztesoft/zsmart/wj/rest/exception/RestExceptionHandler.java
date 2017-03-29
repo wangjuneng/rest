@@ -1,4 +1,4 @@
-package com.ztesoft.zsmart.wj.rest;
+package com.ztesoft.zsmart.wj.rest.exception;
 
 import java.util.Date;
 import java.util.HashMap;

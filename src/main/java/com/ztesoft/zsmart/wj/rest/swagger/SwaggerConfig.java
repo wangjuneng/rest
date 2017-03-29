@@ -3,11 +3,10 @@
  transmission in whole or in part, in any form or by any means, electronic, mechanical <br>
  or otherwise, is prohibited without the prior written consent of the copyright owner. <br>
  ****************************************************************************************/
-package com.ztesoft.zsmart.wj.rest;
+package com.ztesoft.zsmart.wj.rest.swagger;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 import springfox.documentation.builders.ApiInfoBuilder;
 import springfox.documentation.builders.PathSelectors;
